@@ -8,5 +8,7 @@ https://www.cxyzjd.com/article/u010953692/103566907
 
 http://twinquasar.io/index.html#mining
 
+https://www.ligphp.com/post/134.html
+
 Filgas.io
 
