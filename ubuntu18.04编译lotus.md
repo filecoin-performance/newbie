@@ -24,6 +24,9 @@
   source ~/.bashrc
   
   sudo apt-get install rust
+  
+  #20.04
+  sudo apt install rustc
   ```
 
   最后运行make即可生成lotus，lotus-miner，lotus-miner
