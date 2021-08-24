@@ -9,6 +9,7 @@
 - 下载安装go
 
   ```shell
+  # set proxy to download 
   wget -c https://golang.org/dl/go1.16.3.linux-amd64.tar.gz
   sha256sum go1.16.3.linux-amd64.tar.gz
   #951a3c7c6ce4e56ad883f97d9db74d3d6d80d5fec77455c6ada6c1f7ac4776d2
