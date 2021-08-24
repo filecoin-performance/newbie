@@ -29,6 +29,16 @@
   sudo apt install rustc
   ```
 
+- Build source
+
+* Get code
+```shell
+git clone git://github.com/filecoin-project/lotus.git
+git checkout v1.11.1 -b v1.11.1
+
+
+make;sudo make install
+
   最后运行make即可生成lotus，lotus-miner，lotus-miner
 
 - 创建钱包
