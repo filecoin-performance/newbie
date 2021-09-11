@@ -14,6 +14,8 @@ https://filwiki.cn/mine/hardware-requirements/#%E4%B8%80%E8%88%AC%E7%A1%AC%E4%BB
 
 https://learnblockchain.cn/article/1193
 
+https://filecoin.io/blog/
+
 Filgas.io
 
 test
