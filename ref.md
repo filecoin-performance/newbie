@@ -24,3 +24,5 @@ https://www.r9it.com/20210827/lotus-multi-miner-01.html
 
 https://ipfser.org/
 https://docs.filecoin.io/
+
+https://github.com/filecoin-project/community-china/discussions/12
