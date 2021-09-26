@@ -34,3 +34,5 @@ https://libp2p.io/
 
 https://multiformats.io/
 https://github.com/vasa-develop/ultimate-ipfs-series/tree/master/ipld-blogs
+
+https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895
