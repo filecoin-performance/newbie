@@ -14,7 +14,7 @@ https://filwiki.cn/mine/hardware-requirements/#%E4%B8%80%E8%88%AC%E7%A1%AC%E4%BB
 
 https://learnblockchain.cn/article/1193
 
-https://filecoin.io/blog/
+
 
 Filgas.io
 
@@ -23,7 +23,8 @@ test
 https://www.r9it.com/20210827/lotus-multi-miner-01.html
 
 https://ipfser.org/
-https://docs.filecoin.io/
+
+
 
 https://github.com/filecoin-project/community-china/discussions/12
 
@@ -36,3 +37,8 @@ https://multiformats.io/
 https://github.com/vasa-develop/ultimate-ipfs-series/tree/master/ipld-blogs
 
 https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895
+
+
+https://filecoin.io/blog/
+
+https://docs.filecoin.io/
