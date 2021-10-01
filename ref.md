@@ -42,3 +42,6 @@ https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitep
 https://filecoin.io/blog/
 
 https://docs.filecoin.io/
+
+
+https://docs.filecoin.io/reference/#storage-client-and-miner-programs
