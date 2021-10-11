@@ -20,6 +20,8 @@ Filgas.io
 
 test
 
+https://www.cnblogs.com/kumata/p/14246589.html
+
 https://www.r9it.com/20210827/lotus-multi-miner-01.html
 
 https://ipfser.org/
