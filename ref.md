@@ -62,4 +62,6 @@ https://filecoin.io/blog/
 
 https://filecoin.statuspage.io/
 
+https://venus.filecoin.io/zh/guide/
+
 deal retrieval issues site:github.com/filecoin-project/lotus
