@@ -60,5 +60,6 @@ https://proto.school/course/filecoin
 
 https://filecoin.io/blog/
 
+https://filecoin.statuspage.io/
 
 deal retrieval issues site:github.com/filecoin-project/lotus
