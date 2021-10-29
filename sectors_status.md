@@ -4,6 +4,7 @@ https://github.com/filecoin-project/lotus/blob/master/extern/storage-sealing/sec
 
 # below is the status and step by step
 
+```shell
 switch state.State {
 	// Happy path
 	case Empty:
@@ -107,6 +108,10 @@ switch state.State {
 	return nil, processed, nil
 }
 
-
+```
 
 on(SectorPreCommitted{}, PreCommitWait)---数据上链，扣除抵押
+
+
+
+https://spec.filecoin.io/#section-algorithms.pos.post.windowpost
