@@ -115,3 +115,46 @@ on(SectorPreCommitted{}, PreCommitWait)---数据上链，扣除抵押
 
 
 https://spec.filecoin.io/#section-algorithms.pos.post.windowpost
+
+
+
+// The period over which a miner's active sectors are expected to be proven via WindowPoSt.
+// This guarantees that (1) user data is proven daily, (2) user data is stored for 24h by a rational miner
+// (due to Window PoSt cost assumption).
+var WPoStProvingPeriod = abi.ChainEpoch(builtin.EpochsInDay) // 24 hours PARAM_SPEC
+
+// The period between the opening and the closing of a WindowPoSt deadline in which the miner is expected to
+// provide a Window PoSt proof.
+// This provides a miner enough time to compute and propagate a Window PoSt proof.
+var WPoStChallengeWindow = abi.ChainEpoch(30 * 60 / builtin.EpochDurationSeconds) // 30 minutes (48 per day) PARAM_SPEC
+
+// WPoStDisputeWindow is the period after a challenge window ends during which
+// PoSts submitted during that period may be disputed.
+var WPoStDisputeWindow = 2 * ChainFinality // PARAM_SPEC
+
+// The number of non-overlapping PoSt deadlines in a proving period.
+// This spreads a miner's Window PoSt work across a proving period.
+const WPoStPeriodDeadlines = uint64(48) // PARAM_SPEC
+
+// MaxPartitionsPerDeadline is the maximum number of partitions that will be assigned to a deadline.
+// For a minimum storage of upto 1Eib, we need 300 partitions per deadline.
+// 48 * 32GiB * 2349 * 300 = 1.00808144 EiB
+// So, to support upto 10Eib storage, we set this to 3000.
+
+
+**Network parameters**:
+
+- Supported Sector Sizes: `32 GiB` and `64 GiB`
+- Consensus Miner Min Power: `32 GiB`
+- Epoch Duration Seconds: `30`
+- Expected Leaders per Epoch: `5` 
+- WindowPoSt Proving Period: `2880`
+- WindowPoSt Challenge Window: `60`
+- WindowPoSt Period Deadlines: `48`
+- Pre-Commit Challenge Delay: `150
+
+
+WindowPoSt Proving Period: `2880`
+WindowPoSt Challenge Window: `60`
+
+
