@@ -74,3 +74,5 @@ deal retrieval issues site:github.com/filecoin-project/lotus
 * https://orbit.filecoin.io/
 
 * https://filscout.com/en/miner/f049911
+
+* https://filscout.com/en/miner/f01090983
