@@ -81,3 +81,5 @@ deal retrieval issues site:github.com/filecoin-project/lotus
 * https://en.wikichip.org/wiki/amd/epyc/7282
 * 
 * https://versus.com/cn/enterprise-cpu?filter[]=brands%3DAMD
+* https://www.nvidia.com/en-us/drivers/unix/linux-amd64-display-archive/
+* https://developer.nvidia.com/cuda-toolkit-archive
