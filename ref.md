@@ -76,3 +76,8 @@ deal retrieval issues site:github.com/filecoin-project/lotus
 * https://filscout.com/en/miner/f049911
 
 * https://filscout.com/en/miner/f01090983
+* 
+* 
+* https://en.wikichip.org/wiki/amd/epyc/7282
+* 
+* https://versus.com/cn/enterprise-cpu?filter[]=brands%3DAMD
