@@ -73,16 +73,18 @@ http://www.calibration.fildev.network/
 
 deal retrieval issues site:github.com/filecoin-project/lotus
 
-* https://orbit.filecoin.io/
+ https://orbit.filecoin.io/
 
-* https://filscout.com/en/miner/f049911
+ https://filscout.com/en/miner/f049911
 
-* https://filscout.com/en/miner/f01090983
-* 
-* 
-* https://en.wikichip.org/wiki/amd/epyc/7282
-* 
-* https://versus.com/cn/enterprise-cpu?filter[]=brands%3DAMD
-* https://www.nvidia.com/en-us/drivers/unix/linux-amd64-display-archive/
-* https://developer.nvidia.com/cuda-toolkit-archive
-* https://pve.proxmox.com/wiki/ZFS_on_Linux
+ https://filscout.com/en/miner/f01090983
+ 
+ 
+ https://en.wikichip.org/wiki/amd/epyc/7282
+ 
+ https://versus.com/cn/enterprise-cpu?filter[]=brands%3DAMD
+ https://www.nvidia.com/en-us/drivers/unix/linux-amd64-display-archive/
+ https://developer.nvidia.com/cuda-toolkit-archive
+ https://pve.proxmox.com/wiki/ZFS_on_Linux
+ 
+ https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSResilversVsScrubs
